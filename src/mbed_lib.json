@@ -1,0 +1,13 @@
+{
+    "name": "lwm2m-client",
+    "config": {
+        "port": {
+            "help": "The endpoint port",
+            "value": 5683
+        },
+        "ipv4": {
+            "help": "The endpoint ipv4",
+            "value": "\"0.0.0.0\""
+        }
+    }
+}
